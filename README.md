@@ -35,7 +35,7 @@ javac -d . jeuDeDames/*.java
 
 Pour lancer le jeu :
 ```bash
-java .\jeuDeDames\Jeu.java
+java jeuDeDames.Jeu
 ```
 
 ## Règles du Jeu
