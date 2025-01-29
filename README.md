@@ -30,12 +30,12 @@ Depuis le dossier racine (parent du dossier jeuDeDames), exécutez les commandes
 
 Pour compiler :
 ```bash
-javac jeuDeDames/*.java
+javac -d . jeuDeDames/*.java
 ```
 
 Pour lancer le jeu :
 ```bash
-java jeuDeDames.Jeu
+java .\jeuDeDames\Jeu.java
 ```
 
 ## Règles du Jeu
